@@ -23,6 +23,12 @@ yarn install
 
 npm install
 
-##build 
+# Executar 
 
 npm run dev
+
+# Autor 
+
+Gabriel Carvalho Misael
+
+https://www.linkedin.com/in/gabriel-carvalho-misael/
